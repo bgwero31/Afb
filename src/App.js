@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Marketplace from './components/Marketplace';
-import Chatroom from './components/Chatroom';
-import Profile from './components/Profile';
+import Marketplace from './pages/Marketplace';
+import Chatroom from './pages/Chatroom';
+import Profile from './pages/Profile';
 
 function App() {
   return (
