@@ -9,7 +9,7 @@ function App() {
     <Router>
       <nav style={{ padding: '10px', background: '#333' }}>
         <Link to="/" style={{ color: '#fff', marginRight: '10px' }}>Marketplace</Link>
-        <Link to="/chat" style={{ color: '#fff', marginRight: '10px' }}>Chatroom</Link>
+        <Lin.k to="/chat" style={{ color: '#fff', marginRight: '10px' }}>Chatroom</Link>
         <Link to="/profile" style={{ color: '#fff' }}>Profile</Link>
       </nav>
       <Routes>
